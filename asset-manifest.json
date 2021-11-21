@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Redux_DuAnGameTaiXiu/static/css/main.c975040d.chunk.css",
+    "main.js": "/React_Redux_DuAnGameTaiXiu/static/js/main.f773c537.chunk.js",
+    "main.js.map": "/React_Redux_DuAnGameTaiXiu/static/js/main.f773c537.chunk.js.map",
+    "runtime-main.js": "/React_Redux_DuAnGameTaiXiu/static/js/runtime-main.7f1d5b2c.js",
+    "runtime-main.js.map": "/React_Redux_DuAnGameTaiXiu/static/js/runtime-main.7f1d5b2c.js.map",
+    "static/js/2.9e8b91f0.chunk.js": "/React_Redux_DuAnGameTaiXiu/static/js/2.9e8b91f0.chunk.js",
+    "static/js/2.9e8b91f0.chunk.js.map": "/React_Redux_DuAnGameTaiXiu/static/js/2.9e8b91f0.chunk.js.map",
+    "static/js/3.921c2b7c.chunk.js": "/React_Redux_DuAnGameTaiXiu/static/js/3.921c2b7c.chunk.js",
+    "static/js/3.921c2b7c.chunk.js.map": "/React_Redux_DuAnGameTaiXiu/static/js/3.921c2b7c.chunk.js.map",
+    "index.html": "/React_Redux_DuAnGameTaiXiu/index.html",
+    "static/css/main.c975040d.chunk.css.map": "/React_Redux_DuAnGameTaiXiu/static/css/main.c975040d.chunk.css.map",
+    "static/js/2.9e8b91f0.chunk.js.LICENSE.txt": "/React_Redux_DuAnGameTaiXiu/static/js/2.9e8b91f0.chunk.js.LICENSE.txt",
+    "static/media/BTThayKinh.css": "/React_Redux_DuAnGameTaiXiu/static/media/background.710d4027.jpg",
+    "static/media/logo.6ce24c58.svg": "/React_Redux_DuAnGameTaiXiu/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f1d5b2c.js",
+    "static/js/2.9e8b91f0.chunk.js",
+    "static/css/main.c975040d.chunk.css",
+    "static/js/main.f773c537.chunk.js"
+  ]
+}
